@@ -29,6 +29,7 @@ Provide actionable insights based on the findings of the EDA, aimed at helping s
 Highlight skills and specializations that lead to higher earning potential, guiding future educational and career choices.
 This EDA project leverages a combination of statistical analysis and visualization techniques to reveal patterns and insights from the AMCAT dataset, offering a clearer understanding of the factors influencing employment outcomes in the engineering sector. The findings will be compiled into a detailed report, presenting the analysis and insights in a structured manner
 
+## visualization Graph :
 
 ![image](https://github.com/user-attachments/assets/17cb26ed-b62e-45ea-b75e-dccbbd20970f)
 
