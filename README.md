@@ -4,6 +4,16 @@ This project conducts a comprehensive Exploratory Data Analysis (EDA) of the AMC
 
 ## Objectives of the Project:
 
+##  Exploratory Data Analysis (EDA) of AMCAT Dataset and Hypothesis Testing: Investigating Salary Claims
+   
+  - Conducted an open-ended EDA on the AMCAT dataset, focusing on understanding the various features and their relationships with the target variable, Salary.
+    
+  - Explored the relationship between gender and specialization preferences among individuals in the AMCAT dataset.
+    
+- Tested the claim made in a Times of India article regarding the earning potential of Computer Science Engineering graduates.
+  
+-  Applied statistical tests to validate hypotheses and investigate specific claims, such as the relationship between education and earning potential.
+
 ## Salary Analysis:
 
 Examine the distribution of salaries offered to engineering graduates, identifying trends, outliers, and the range of compensation across different job roles.
