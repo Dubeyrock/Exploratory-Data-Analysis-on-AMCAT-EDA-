@@ -1,4 +1,4 @@
-# EDA Project - AMCAT Data Analysis
+# Exploratory Data Analysis (EDA) of AMCAT Dataset and Hypothesis Testing: Investigating Salary Claims
 
 This project conducts a comprehensive Exploratory Data Analysis (EDA) of the AMCAT dataset, focusing on the employment outcomes of engineering graduates in India. The dataset, released by Aspiring Minds, encompasses data on approximately 4,000 candidates, featuring around 40 variables that include demographic details, academic performance, AMCAT test scores, and job outcomes, with a particular emphasis on the target variable, Salary.
 
